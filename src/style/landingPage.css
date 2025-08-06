@@ -1,3 +1,4 @@
+/* Intro */
 .myBG {
     height: 100vh;
     background: url('../assets/Images/bg/bg_main.jpg');
@@ -39,7 +40,8 @@
 
 .movieImage{
     width: 200px;
-    height: auto;
+    height: 200px;
+    padding: 10px;
 }
 
 
