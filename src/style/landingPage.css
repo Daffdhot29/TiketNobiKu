@@ -29,9 +29,17 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-
+/* Trending */
 .trendingContainer {
     height: 100vh;
     background: url('../assets/Images/bg/bg_4.jpg');
+    background-size:cover ;
+}
+
+
+/* Action */
+.actionContainer {
+    height: 100vh;
+    background: url('../assets/Images/bg/bg_5.jpg');
     background-size:cover ;
 }
