@@ -28,3 +28,10 @@
     letter-spacing: 3px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
+.trendingContainer {
+    height: 100vh;
+    background: url('../assets/Images/bg/bg_4.jpg');
+    background-size:cover ;
+}
