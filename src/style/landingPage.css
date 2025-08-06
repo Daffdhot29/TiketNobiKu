@@ -37,6 +37,11 @@
     background-size:cover ;
 }
 
+.movieImage{
+    width: 200px;
+    height: auto;
+}
+
 
 /* Action */
 .actionContainer {
