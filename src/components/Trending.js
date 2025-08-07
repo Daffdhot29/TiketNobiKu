@@ -7,6 +7,7 @@ import miracle from '../assets/Images/Trending/miracle.jpg';
 const Trending = () => {
     return (
         <div className='trendingContainer'>
+            <h1 className='text-center text-white'>Trending</h1>
             <Container>
                 <Row>
                     <Col md = {4} className='movieWrapper'>

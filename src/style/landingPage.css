@@ -45,8 +45,8 @@
 .movieImage{
     height: auto;
     background-color: black;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
+    margin: 10px;
     border-radius: 10px;
 }
 
@@ -57,7 +57,7 @@
 
 /* Action */
 .actionContainer {
-    height: 100vh;
+    height: auto;
     background: url('../assets/Images/bg/bg_5.jpg');
     background-size:cover ;
 }
