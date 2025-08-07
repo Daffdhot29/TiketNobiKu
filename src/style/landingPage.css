@@ -33,15 +33,25 @@
 
 /* Trending */
 .trendingContainer {
-    height: 100vh;
+    height: auto;
     background: url('../assets/Images/bg/bg_4.jpg');
     background-size:cover ;
 }
 
+.movieWrapper{
+
+}
+
 .movieImage{
     height: auto;
-    padding: 20px;
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
     border-radius: 10px;
+}
+
+.images {
+    height: 500px;
 }
 
 

@@ -11,7 +11,7 @@ const Trending = () => {
                 <Row>
                     <Col md = {4} className='movieWrapper'>
                         <Card className="bg-dark text-white text-center mb-3 movieImage">
-                            <Card.Img src={blackAdam} alt="Black Adam"  />
+                            <Card.Img src={blackAdam} alt="Black Adam"  className='images'/>
                             <Card.Title className='text-center'>Black Adam</Card.Title>
                             <Card.Text className='text-left'>
                             Seorang antihero dari Kahndaq, Black Adam, 
@@ -24,7 +24,7 @@ const Trending = () => {
                     </Col>
                     <Col md = {4} className='movieWrapper'>
                         <Card className="bg-dark text-white text-center mb-3 movieImage">
-                            <Card.Img src={menantuSInting} alt="Menantu Sinting"  />
+                            <Card.Img src={menantuSInting} alt="Menantu Sinting"  className='images'/>
                             <Card.Title className='text-center'>Menantu Sinting</Card.Title>
                             <Card.Text className='text-left'>
                             Saat keluarga bahagia kedatangan menantu baru, segalanya berubah menjadi kacau. 
@@ -36,7 +36,7 @@ const Trending = () => {
                     </Col>
                     <Col md = {4} className='movieWrapper'>
                         <Card className="bg-dark text-white text-center mb-3 movieImage">
-                            <Card.Img src={elio} alt="Elio"  />
+                            <Card.Img src={elio} alt="Elio" className='images' />
                             <Card.Title className='text-center'>Elio</Card.Title>
                             <Card.Text className='text-left'>
                                 menceritakan tentang Elio, seorang anak laki-laki berusia 11 tahun yang tidak sengaja terhubung dengan makhluk luar angkasa. 
@@ -49,7 +49,7 @@ const Trending = () => {
                     </Col>
                     <Col md = {4} className='movieWrapper'>
                         <Card className="bg-dark text-white text-center mb-3 movieImage">
-                            <Card.Img src={blackPather} alt="blackPanther"  />
+                            <Card.Img src={blackPather} alt="blackPanther" className='images' />
                             <Card.Title className='text-center'>Black Panther</Card.Title>
                             <Card.Text className='text-left'>
                                 Setelah kematian ayahnya, T Challa kembali ke tanah airnya, Wakanda, sebuah negara tersembunyi 
@@ -62,7 +62,7 @@ const Trending = () => {
                     </Col>
                     <Col md = {4} className='movieWrapper'>
                         <Card className="bg-dark text-white text-center mb-3 movieImage">
-                            <Card.Img src={miracle} alt="Miracle"  />
+                            <Card.Img src={miracle} alt="Miracle" className='images' />
                             <Card.Title className='text-center'>Miracle</Card.Title>
                             <Card.Text className='text-left'>
                                  Dodo Rozak, seorang ayah dengan keterbelakangan mental, sangat menyayangi putrinya, Kartika. Suatu hari, Dodo 
